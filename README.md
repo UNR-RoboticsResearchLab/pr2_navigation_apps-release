@@ -1,3 +1,30 @@
+## pr2_navigation_apps (indigo) - 1.0.2-0
+
+The packages in the `pr2_navigation_apps` repository were released into the `indigo` distro by running `/usr/bin/bloom-release pr2_navigation_apps --track indigo --rosdistro indigo --new-track` on `Sun, 11 Mar 2018 03:26:19 -0000`
+
+These packages were released:
+- `pr2_2dnav`
+- `pr2_2dnav_local`
+- `pr2_2dnav_slam`
+- `pr2_navigation_apps`
+
+Version of package(s) in repository `pr2_navigation_apps`:
+
+- upstream repository: https://github.com/PR2/pr2_navigation_apps.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.2`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.6.6`
+- vcstools version: `0.1.40`
+
+
 ## pr2_navigation_apps (hydro) - 1.0.2-1
 
 The packages in the `pr2_navigation_apps` repository were released into the `hydro` distro by running `/usr/bin/bloom-release --rosdistro hydro --track hydro pr2_navigation_apps` on `Wed, 13 May 2015 17:54:25 -0000`
